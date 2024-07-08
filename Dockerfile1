@@ -1,0 +1,1 @@
+FROM joanneacr0626.azurecr.io/nginx:v1
